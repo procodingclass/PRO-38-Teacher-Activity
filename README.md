@@ -1,2 +1,2 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
+# PRO-38-Teacher-Activity
+Boiler plate for Dog moving aysnchronously
